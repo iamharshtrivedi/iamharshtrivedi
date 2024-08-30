@@ -43,11 +43,11 @@
 <p><a href="https://www.buymeacoffee.com/harsh.trivedi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harsh.trivedi" /></a></p><br><be>
 
 ## 📊 GitHub Stats:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamharshtrivedi&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=false" alt="iamharshtrivedi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamharshtrivedi&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false" alt="iamharshtrivedi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamharshtrivedi&show_icons=true&locale=en&theme=nord&hide_border=false" alt="iamharshtrivedi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamharshtrivedi&show_icons=true&locale=en&theme=dark&hide_border=false" alt="iamharshtrivedi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamharshtrivedi&theme=nord&hide_border=false" alt="iamharshtrivedi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamharshtrivedi&theme=dark&hide_border=false" alt="iamharshtrivedi" /></p>
 
 
 ## 🏆 GitHub Trophies
