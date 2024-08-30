@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Harsh Trivedi.</h1>
+<h1 align="center">Hi👋🏻,  I'm Harsh Trivedi.</h1>
 <h3 align="center">Google Scholar - Android & Tech Enthusiast with 8+ Years of Overall Experience and 5+ Years of Experience in Android. Software Developer with a strong coding foundation in Android, Kotlin, Java, Python, Web Development and QA. Passionate about AI/ML and integrating them into projects. Thrives in collaborative environments and has demonstrated leadership skills. Possesses a strong growth mindset and a passion for developing impactful solutions.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamharshtrivedi&label=Profile%20views&color=0e75b6&style=flat" alt="iamharshtrivedi" /> </p>
-
-<p align="left"> <a href="https://twitter.com/iamharshtrivedi" target="blank"><img src="https://img.shields.io/twitter/follow/iamharshtrivedi?logo=twitter&style=for-the-badge" alt="iamharshtrivedi" /></a> </p>
 
 - 🔭 I’m currently working on [GenerativeAiSampleApp](https://github.com/iamharshtrivedi/GenerativeAiSampleApp)
 
@@ -46,8 +42,15 @@
 <p><a href="https://github.com/sponsors/iamharshtrivedi"> <img align="center" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" height="50" width="210" alt="iamharshtrivedi" /></a></p><br><be>
 <p><a href="https://www.buymeacoffee.com/harsh.trivedi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harsh.trivedi" /></a></p><br><be>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamharshtrivedi&show_icons=true&locale=en&layout=compact" alt="iamharshtrivedi" /></p>
+## 📊 GitHub Stats:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamharshtrivedi&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=false" alt="iamharshtrivedi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamharshtrivedi&show_icons=true&locale=en" alt="iamharshtrivedi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamharshtrivedi&show_icons=true&locale=en&theme=nord&hide_border=false" alt="iamharshtrivedi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamharshtrivedi&" alt="iamharshtrivedi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamharshtrivedi&theme=nord&hide_border=false" alt="iamharshtrivedi" /></p>
+
+
+## 🏆 GitHub Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamharshtrivedi&theme=oldie&no-frame=false&no-bg=true&margin-w=4" alt="iamharshtrivedi" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamharshtrivedi&label=Profile%20views&color=0e75b6&style=flat" alt="iamharshtrivedi" /> </p>
