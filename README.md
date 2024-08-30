@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **harshtrivediemails@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18Mn2_7q7bBsztglYtIDXzpesXmcf-MAu/](https://drive.google.com/file/d/18Mn2_7q7bBsztglYtIDXzpesXmcf-MAu/)
+- 📄 Know about my experiences, [Here is My Portfolio.](https://drive.google.com/file/d/18Mn2_7q7bBsztglYtIDXzpesXmcf-MAu/)
 
 - ⚡ Fun fact **I'm Tech Geeky, Optimistic, Karma Believer and Funny.**
 
