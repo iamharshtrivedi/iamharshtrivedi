@@ -20,15 +20,15 @@
 - ⚡ Fun fact **I'm Tech Geeky, Optimistic, Karma Believer and Funny.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/iamharshtrivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamharshtrivedi" height="30" width="40" /></a>
-<a href="https://twitter.com/iamharshtrivedi" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.svg" alt="iamharshtrivedi" height="40" width="40" /></a>
-<a href="https://instagram.com/im.ht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im.ht" height="30" width="40" /></a>
-<a href="https://fb.com/iamharshtrivedi264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamharshtrivedi264" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/harsh.trivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="harsh.trivedi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/6591743" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6591743" height="30" width="40" /></a>
-<a href="https://medium.com/@harsh.trivedi" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-square-icon.png" alt="@harsh.trivedi" height="30" width="40" /></a>
-<a href="https://codepen.io/harshtrivedi" target="blank"><img align="center" src="https://static.cdnlogo.com/logos/c/77/codepen-icon.svg" alt="harshtrivedi" height="30" width="40" /></a>
+<p align="left"> 
+<a href="https://linkedin.com/in/iamharshtrivedi" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamharshtrivedi" height="30" width="40" /> </a>
+<a href="https://twitter.com/iamharshtrivedi" target="blank"> <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.svg" alt="iamharshtrivedi" height="40" width="40" /> </a>
+<a href="https://instagram.com/im.ht" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im.ht" height="30" width="40" /></a>
+<a href="https://fb.com/iamharshtrivedi264" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamharshtrivedi264" height="30" width="40" /> </a>
+<a href="https://www.youtube.com/c/harsh.trivedi" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="harsh.trivedi" height="30" width="40" /> </a>
+<a href="https://stackoverflow.com/users/6591743" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6591743" height="30" width="40" /> </a>
+<a href="https://medium.com/@harsh.trivedi" target="blank"> <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-square-icon.png" alt="@harsh.trivedi" height="30" width="40" /> </a>
+<a href="https://codepen.io/harshtrivedi" target="blank"> <img align="center" src="https://static.cdnlogo.com/logos/c/77/codepen-icon.svg" alt="harshtrivedi" height="30" width="40" /> </a>
 </p>
 
 <h3 align="left">Teck Stack:</h3>
@@ -59,9 +59,10 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://github.com/sponsors/iamharshtrivedi"> <img align="center" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" height="50" width="210" alt="iamharshtrivedi" /></a></p><br><be>
-<p><a href="https://www.buymeacoffee.com/harsh.trivedi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harsh.trivedi" /></a></p><br><be>
-<p><a href="https://ko-fi.com/harshtrivedi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="harshtrivedi" /></a></p><br><be>
+<p> <a href="https://github.com/sponsors/iamharshtrivedi"> <img align="center" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" height="50" width="210" alt="iamharshtrivedi" /> </a></p><br><be>
+<p> <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=25ZKHN2KL2UYN"> <img align="center"src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" height="60" width="210" alt="Donate with PayPal" /> </a></p><br><be>
+<p> <a href="https://www.buymeacoffee.com/harsh.trivedi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harsh.trivedi" /></a></p><br><be>
+<p> <a href="https://ko-fi.com/harshtrivedi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="harshtrivedi" /> </a></p><br><be>
 
 ## 📊 GitHub Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamharshtrivedi&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false" alt="iamharshtrivedi" /></p>
