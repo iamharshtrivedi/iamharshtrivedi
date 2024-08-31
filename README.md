@@ -1,3 +1,9 @@
+<p align="center">
+<a href="https://wakatime.com/@82702098-d707-4a83-af99-f7090bb9c945"><img src="https://wakatime.com/badge/user/82702098-d707-4a83-af99-f7090bb9c945.svg" alt="Total time coded since Sep 1 2024" /></a> <img src="https://komarev.com/ghpvc/?username=iamharshtrivedi&label=Profile%20views&color=0e75b6&style=flat" alt="iamharshtrivedi" />
+<a href="https://visitorbadge.io/status?path=iamharshtrivedi%2Fiamharshtrivedi"><img src="https://api.visitorbadge.io/api/visitors?path=iamharshtrivedi%2Fiamharshtrivedi&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
+<a href="https://github.com/iamharshtrivedi?tab=repositories"><img src="https://img.shields.io/github/stars/iamharshtrivedi?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>l̥
+</p>
+
 <img  align="center" width="100%" height="220px" alt ="banner" src="https://raw.githubusercontent.com/iamharshtrivedi/iamharshtrivedi/master/.github/images/harsh-trivedi-banner.png"/>
 
 
@@ -82,4 +88,3 @@
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamharshtrivedi&theme=oldie&no-frame=false&no-bg=true&margin-w=4" alt="iamharshtrivedi" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamharshtrivedi&label=Profile%20views&color=0e75b6&style=flat" alt="iamharshtrivedi" /> </p>
