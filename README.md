@@ -1,3 +1,6 @@
+<img  align="center" width="100%" height="220px" alt ="banner" src="https://raw.githubusercontent.com/iamharshtrivedi/iamharshtrivedi/master/.github/images/harsh-trivedi-banner.png"/>
+
+
 <h1 align="center">Hi👋🏻,  I'm Harsh Trivedi.</h1>
 <h3 align="center">Google Scholar - Android & Tech Enthusiast with 8+ Years of Overall Experience and 5+ Years of Experience in Android. Software Developer with a strong coding foundation in Android, Kotlin, Java, Python, Web Development and QA. Passionate about AI/ML and integrating them into projects. Thrives in collaborative environments and has demonstrated leadership skills. Possesses a strong growth mindset and a passion for developing impactful solutions.</h3>
 
