@@ -62,10 +62,12 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p> <a href="https://github.com/sponsors/iamharshtrivedi"> <img align="center" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" height="50" width="210" alt="iamharshtrivedi" /> </a></p><br><be>
-<p> <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=25ZKHN2KL2UYN"> <img align="center"src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" height="60" width="210" alt="Donate with PayPal" /> </a></p><br><be>
-<p> <a href="https://www.buymeacoffee.com/harsh.trivedi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harsh.trivedi" /></a></p><br><be>
-<p> <a href="https://ko-fi.com/harshtrivedi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="harshtrivedi" /> </a></p><br><be>
+<p>
+<a href="https://github.com/sponsors/iamharshtrivedi"> <img  src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" height="30" width="100" alt="iamharshtrivedi" /> </a> 
+<a href="https://www.buymeacoffee.com/harsh.trivedi"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="100" alt="harsh.trivedi" /></a>
+<a href="https://ko-fi.com/harshtrivedi"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30" width="100" alt="harshtrivedi" /> </a>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=25ZKHN2KL2UYN"> <img src="https://pics.paypal.com/00/s/ZDdlNDg0MDYtYTUxYS00NjcxLTgyNWUtNzgxNTQ0ODRjZGI3/file.PNG" height="40" width="110" alt="Donate with PayPal" /> </a>
+</p>
 
 ## 📊 GitHub Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamharshtrivedi&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false" alt="iamharshtrivedi" /></p>
