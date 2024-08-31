@@ -59,11 +59,9 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p>
-<a href="https://github.com/sponsors/iamharshtrivedi"> <img align="center" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" height="50" width="210" alt="iamharshtrivedi" /></a>
-</p><br><be><p>
-<a href="https://www.buymeacoffee.com/harsh.trivedi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harsh.trivedi" />
-</a></p><br><be>
+<p><a href="https://github.com/sponsors/iamharshtrivedi"> <img align="center" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" height="50" width="210" alt="iamharshtrivedi" /></a></p><br><be>
+<p><a href="https://www.buymeacoffee.com/harsh.trivedi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harsh.trivedi" /></a></p><br><be>
+<p><a href="https://ko-fi.com/harshtrivedi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="harshtrivedi" /></a></p><br><be>
 
 ## 📊 GitHub Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamharshtrivedi&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false" alt="iamharshtrivedi" /></p>
