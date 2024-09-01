@@ -2,8 +2,9 @@
 <!--START_SECTION:waka-->
 <a href="https://wakatime.com/@82702098-d707-4a83-af99-f7090bb9c945"><img src="https://wakatime.com/badge/user/82702098-d707-4a83-af99-f7090bb9c945.svg" alt="Total time coded since Sep 1 2024" /></a>
 <!--END_SECTION:waka-->
-<a href="https://visitorbadge.io/status?path=iamharshtrivedi%2Fiamharshtrivedi"><img src="https://api.visitorbadge.io/api/visitors?path=iamharshtrivedi%2Fiamharshtrivedi&label=%20Profile%20Views&countColor=%23263759&style=flat&labelStyle=none" /></a>
-<a href="https://github.com/iamharshtrivedi?tab=repositories"><img src="https://img.shields.io/github/stars/iamharshtrivedi?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
+<a href="https://visitorbadge.io/status?path=iamharshtrivedi%2Fiamharshtrivedi"><img src="https://api.visitorbadge.io/api/visitors?path=iamharshtrivedi%2Fiamharshtrivedi&label=%20Profile%20Views&countColor=%232596be&style=flat&labelStyle=none" /></a>
+<a href="https://github.com/iamharshtrivedi?tab=repositories"><img src="https://img.shields.io/github/stars/iamharshtrivedi?style=flat&logo=github&label=Total%20Stars&color=blue"/></a>
+<a href="https://github.com/iamharshtrivedi"><img src="https://img.shields.io/github/followers/iamharshtrivedi?style=flat&logo=github&label=Total%20Followers&color=blue"/></a>
 </p>
 <img  align="center" width="100%" height="80%" alt ="banner" src="https://raw.githubusercontent.com/iamharshtrivedi/iamharshtrivedi/master/.github/images/harsh-trivedi-banner.png"/>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello%F0%9F%91%8B%F0%9F%8F%BB%2C+There!;I'm+Harsh+Trivedi.%E2%80%8B%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a></p>
@@ -41,6 +42,7 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
+<a href="https://github.com/iamharshtrivedi" target="blank"> <img align="center" src="" alt="iamharshtrivedi" height="40" width="40" /> </a>
 <a href="https://linkedin.com/in/iamharshtrivedi" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamharshtrivedi" height="30" width="40" /> </a>
 <a href="https://twitter.com/iamharshtrivedi" target="blank"> <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.svg" alt="iamharshtrivedi" height="40" width="40" /> </a>
 <a href="https://instagram.com/im.ht" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im.ht" height="30" width="40" /></a>
