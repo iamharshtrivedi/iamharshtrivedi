@@ -4,7 +4,7 @@
 <a href="https://github.com/iamharshtrivedi?tab=repositories"><img src="https://img.shields.io/github/stars/iamharshtrivedi?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
 </p>
 
-<img  align="center" width="100%" height="220px" alt ="banner" src="https://raw.githubusercontent.com/iamharshtrivedi/iamharshtrivedi/master/.github/images/harsh-trivedi-banner.png"/>
+<img  align="center" width="100%" height="80%" alt ="banner" src="https://raw.githubusercontent.com/iamharshtrivedi/iamharshtrivedi/master/.github/images/harsh-trivedi-banner.png"/>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello%F0%9F%91%8B%F0%9F%8F%BB%2C+There.;I'm+Harsh+Trivedi.%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
