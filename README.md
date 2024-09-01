@@ -5,8 +5,9 @@
 
 <img  align="center" width="100%" height="220px" alt ="banner" src="https://raw.githubusercontent.com/iamharshtrivedi/iamharshtrivedi/master/.github/images/harsh-trivedi-banner.png"/>
 
-
-<h1 align="center">Hi👋🏻,  I'm Harsh Trivedi.</h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello%F0%9F%91%8B%F0%9F%8F%BB%2C+There.;I'm+Harsh+Trivedi.%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+</p>
 <h3 align="left">About Me: </h1>
 <h4 align="left">• Google Scholar - Android & Tech Enthusiast with 8+ Years of Overall Experience and 5+ Years of Experience in Android. </h4>
 <h4 align="left">• Software Developer with a strong coding foundation in Android, Kotlin, Java, Python, Web Development and QA. </h4>
