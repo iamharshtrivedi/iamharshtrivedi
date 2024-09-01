@@ -42,7 +42,7 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
-<a href="https://github.com/iamharshtrivedi" target="blank"> <img align="center" src="" alt="iamharshtrivedi" height="40" width="40" /> </a>
+<a href="https://github.com/iamharshtrivedi" target="blank"> <img align="center" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSB_5yS6ESEdsLWLYMwCERLzwCDWqxEeNp90oee6nl5xLRhtAuL" alt="iamharshtrivedi" height="40" width="40" /> </a>
 <a href="https://linkedin.com/in/iamharshtrivedi" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamharshtrivedi" height="30" width="40" /> </a>
 <a href="https://twitter.com/iamharshtrivedi" target="blank"> <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.svg" alt="iamharshtrivedi" height="40" width="40" /> </a>
 <a href="https://instagram.com/im.ht" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im.ht" height="30" width="40" /></a>
