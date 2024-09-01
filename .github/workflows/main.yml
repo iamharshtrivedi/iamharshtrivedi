@@ -1,0 +1,15 @@
+name: Waka Readme
+
+on:
+ schedule:
+   - cron: '0 1 * * *' # Run at 1:00 AM (you can edit it)
+ workflow_dispatch:
+jobs:
+ update-readme:
+   name: Update Readme with Metrics
+   runs-on: ubuntu-latest
+   steps:
+     - uses: iamharshtrivedi/waka-widgets@main
+       with:
+         WAKATIME_API_KEY: ${{secrets.WAKATIME_API_KEY}}
+         GH_TOKEN: ${{secrets.GH_TOKEN}}
