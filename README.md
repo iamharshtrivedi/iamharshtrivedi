@@ -1,5 +1,4 @@
 <p align="center">
-<a href="https://wakatime.com/@82702098-d707-4a83-af99-f7090bb9c945"><img src="https://wakatime.com/badge/user/82702098-d707-4a83-af99-f7090bb9c945.svg" alt="Total time coded since Sep 1 2024" /></a> <img src="https://komarev.com/ghpvc/?username=iamharshtrivedi&label=Profile%20views&color=0e75b6&style=flat" alt="iamharshtrivedi" />
 <a href="https://visitorbadge.io/status?path=iamharshtrivedi%2Fiamharshtrivedi"><img src="https://api.visitorbadge.io/api/visitors?path=iamharshtrivedi%2Fiamharshtrivedi&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
 <a href="https://github.com/iamharshtrivedi?tab=repositories"><img src="https://img.shields.io/github/stars/iamharshtrivedi?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
 </p>
@@ -8,7 +7,13 @@
 
 
 <h1 align="center">Hi👋🏻,  I'm Harsh Trivedi.</h1>
-<h3 align="center">Google Scholar - Android & Tech Enthusiast with 8+ Years of Overall Experience and 5+ Years of Experience in Android. Software Developer with a strong coding foundation in Android, Kotlin, Java, Python, Web Development and QA. Passionate about AI/ML and integrating them into projects. Thrives in collaborative environments and has demonstrated leadership skills. Possesses a strong growth mindset and a passion for developing impactful solutions.</h3>
+<h3 align="left">About Me: </h1>
+<h4 align="left">• Google Scholar - Android & Tech Enthusiast with 8+ Years of Overall Experience and 5+ Years of Experience in Android. </h4>
+<h4 align="left">• Software Developer with a strong coding foundation in Android, Kotlin, Java, Python, Web Development and QA. </h4>
+<h4 align="left">• Passionate about AI/ML and integrating them into projects. </h4>
+<h4 align="left">• Thrives in collaborative environments and has demonstrated leadership skills. </h4> 
+<h4 align="left">• Possesses a strong growth mindset and a passion for developing impactful solutions.</h4><br>
+
 
 - 🔭 I’m currently working on [GenerativeAiSampleApp](https://github.com/iamharshtrivedi/GenerativeAiSampleApp)
 
