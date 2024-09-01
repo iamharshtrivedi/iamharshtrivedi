@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://github.com/iamharshtrivedi"><img src="https://img.shields.io/github/followers/iamharshtrivedi.svg?style=social&label=Follow&maxAge=2592000" /></a>
 <a href="https://visitorbadge.io/status?path=iamharshtrivedi%2Fiamharshtrivedi"><img src="https://api.visitorbadge.io/api/visitors?path=iamharshtrivedi%2Fiamharshtrivedi&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
+<a href="https://github.com/iamharshtrivedi"><img src="https://img.shields.io/github/followers/iamharshtrivedi.svg?style=social&label=Follow&maxAge=2592000" /></a>
 <a href="https://github.com/iamharshtrivedi?tab=repositories"><img src="https://img.shields.io/github/stars/iamharshtrivedi?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
 </p>
 
