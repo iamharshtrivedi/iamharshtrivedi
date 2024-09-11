@@ -45,15 +45,14 @@
 <a href="https://github.com/iamharshtrivedi" target="blank"> <img align="center" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSB_5yS6ESEdsLWLYMwCERLzwCDWqxEeNp90oee6nl5xLRhtAuL" alt="iamharshtrivedi" height="40" width="40" /> </a>
 <a href="https://linkedin.com/in/iamharshtrivedi" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamharshtrivedi" height="30" width="40" /> </a>
 <a href="https://twitter.com/iamharshtrivedi" target="blank"> <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.svg" alt="iamharshtrivedi" height="40" width="40" /> </a>
+<a href="https://www.youtube.com/c/harsh.trivedi" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="harsh.trivedi" height="30" width="40" /> </a>
 <a href="https://instagram.com/im.ht" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im.ht" height="30" width="40" /></a>
 <a href="https://fb.com/iamharshtrivedi264" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamharshtrivedi264" height="30" width="40" /> </a>
-<a href="https://www.youtube.com/c/harsh.trivedi" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="harsh.trivedi" height="30" width="40" /> </a>
 <a href="https://stackoverflow.com/users/6591743" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6591743" height="30" width="40" /> </a>
 <a href="https://medium.com/@harsh.trivedi" target="blank"> <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-square-icon.png" alt="@harsh.trivedi" height="30" width="40" /> </a>
 <a href="https://codepen.io/harshtrivedi" target="blank"> <img align="center" src="https://static.cdnlogo.com/logos/c/77/codepen-icon.svg" alt="harshtrivedi" height="30" width="40" /> </a>
 <a href="https://kaggle.com/iamharshtrivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iamharshtrivedi" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Teck Stack:</h3>
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://developer.android.com/static/images/logos/android.svg" alt="android" width="40" height="40"/> </a> 
