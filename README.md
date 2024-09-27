@@ -3,11 +3,11 @@
 <a href="https://wakatime.com/@82702098-d707-4a83-af99-f7090bb9c945"><img src="https://wakatime.com/badge/user/82702098-d707-4a83-af99-f7090bb9c945.svg" alt="Total time coded since Sep 1 2024" /></a>
 <!--END_SECTION:waka-->
 <a href="https://visitorbadge.io/status?path=iamharshtrivedi%2Fiamharshtrivedi"><img src="https://api.visitorbadge.io/api/visitors?path=iamharshtrivedi%2Fiamharshtrivedi&label=%20Profile%20Views&countColor=%232596be&style=flat&labelStyle=none" /></a>
-<a href="https://github.com/iamharshtrivedi?tab=repositories"><img src="https://img.shields.io/github/stars/iamharshtrivedi?style=flat&logo=github&label=Total%20Stars&color=blue"/></a>
-<a href="https://github.com/iamharshtrivedi"><img src="https://img.shields.io/github/followers/iamharshtrivedi?style=flat&logo=github&label=Total%20Followers&color=blue"/></a>
+<a href="https://github.com/iamharshtrivedi?tab=repositories"><img src="https://img.shields.io/github/stars/iamharshtrivedi?style=flat&logo=github&label=Total%20Stars&color=%232596be&style=flat&labelStyle=none"/></a>
+<a href="https://github.com/iamharshtrivedi"><img src="https://img.shields.io/github/followers/iamharshtrivedi?style=flat&logo=github&label=Total%20Followers&color=%232596be&style=flat&labelStyle=none"/></a>
 </p>
 <img  align="center" width="100%" height="80%" alt ="banner" src="https://raw.githubusercontent.com/iamharshtrivedi/iamharshtrivedi/master/.github/images/harsh-trivedi-banner.png"/>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello%F0%9F%91%8B%F0%9F%8F%BB%2C+There!;I'm+Harsh+Trivedi.%E2%80%8B%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2596BE&center=true&vCenter=true&width=435&lines=Hello%2C+There!+;I'm+Harsh+Trivedi." alt="Typing SVG" /></a></p>
 
 <h3 align="left">About Me: </h3>
 
