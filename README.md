@@ -1,6 +1,6 @@
 <p align="center">
 <!--START_SECTION:waka-->
-<a href="https://wakatime.com/@82702098-d707-4a83-af99-f7090bb9c945"><img src="https://wakatime.com/badge/user/82702098-d707-4a83-af99-f7090bb9c945.svg" alt="Total time coded since Sep 1 2024" /></a>
+<a href="https://wakatime.com/@82702098-d707-4a83-af99-f7090bb9c945"><img src="https://wakatime.com/badge/user/82702098-d707-4a83-af99-f7090bb9c945.svg?color=2596BE" alt="Total time coded since Sep 1 2024" /></a>
 <!--END_SECTION:waka-->
 <a href="https://visitorbadge.io/status?path=iamharshtrivedi%2Fiamharshtrivedi"><img src="https://api.visitorbadge.io/api/visitors?path=iamharshtrivedi%2Fiamharshtrivedi&label=%20Profile%20Views&countColor=%232596be&style=flat&labelStyle=none" /></a>
 <a href="https://github.com/iamharshtrivedi?tab=repositories"><img src="https://img.shields.io/github/stars/iamharshtrivedi?style=flat&logo=github&label=Total%20Stars&color=%232596be&style=flat&labelStyle=none"/></a>
