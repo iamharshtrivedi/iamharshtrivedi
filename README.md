@@ -13,6 +13,8 @@
 
 - 👨‍💻 Google Scholar - Android & Tech Enthusiast with 8+ Years of Overall Experience and 5+ Years of Experience in Android.
 
+- 💼 Android & Python Developer. Ex - [@HyperlinkInfoSystem](https://www.hyperlinkinfosystem.com/), [@SiliconITHub](https://www.siliconithub.com/).
+
 - 💻 Software Developer with a strong coding foundation in Android, Kotlin, Java, Python, Web Development and QA. </h4>
 
 - 🥳 Passionate about AI/ML and integrating them into projects.
@@ -33,7 +35,7 @@
 
 - 💬 Ask me about **Android, Kotlin, Java, Python, Web Development & QA.**
 
-- 📫 How to reach me **harshtrivediemails@gmail.com**
+- 📫 How to reach me, Work E-Mail: **harshtrivediemails@gmail.com** Personal E-Mail: **hktrivedi264@gmail.com**
 
 - 📄 Know about my experiences, [Here is My Portfolio.](https://drive.google.com/file/d/18Mn2_7q7bBsztglYtIDXzpesXmcf-MAu/)
 
