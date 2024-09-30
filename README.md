@@ -29,25 +29,25 @@
 
 - 😎 Possesses a strong growth mindset and a passion for developing impactful solutions.
   
-- 🔭 I’m currently working on [GenerativeAiSampleApp](https://github.com/iamharshtrivedi/GenerativeAiSampleApp), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP)
+- 🔭 I’m currently working on [GenerativeAiSampleApp](https://github.com/iamharshtrivedi/GenerativeAiSampleApp), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP).
 
 - 🌱 I’m currently learning **Android-Jetpack Compose, Generative AI & Python.**
 
-- 👯 I’m looking to collaborate on [GenerativeAiSampleApp](https://github.com/iamharshtrivedi/GenerativeAiSampleApp), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP)
+- 👯 I’m looking to collaborate on [GenerativeAiSampleApp](https://github.com/iamharshtrivedi/GenerativeAiSampleApp), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP).
 
-- 🤝 I’m looking for help with [GenerativeAiSampleApp](https://github.com/iamharshtrivedi/GenerativeAiSampleApp), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP)
+- 🤝 I’m looking for help with [GenerativeAiSampleApp](https://github.com/iamharshtrivedi/GenerativeAiSampleApp), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP).
 
-- 👨‍💻 All of my projects are available at [My LinkedIn Profile](https://www.linkedin.com/in/iamharshtrivedi/)
+- 👨‍💻 All of my projects are available at [My LinkedIn Profile](https://www.linkedin.com/in/iamharshtrivedi/).
 
-- 💬 Ask me about **Android, Kotlin, Java, Python, Web Development & QA.**
+- 💬 Ask me about **Android, Kotlin, Java, Python, Web Development & QA**.
 
-- 📫 How to reach me, Work E-Mail: **harshtrivediemails@gmail.com** Personal E-Mail: **hktrivedi264@gmail.com**
+- 📫 How to reach me, Work E-Mail: **harshtrivediemails@gmail.com** & Personal E-Mail: **hktrivedi264@gmail.com**.
 
-- 📄 Know about my experiences, [Here is My Resume.](https://drive.google.com/file/d/1R7CLzgISdpUf8OSkhkHdN-VZZ-j6ndsu/)
+- 📄 Know my experiences, [Here is My Resume](https://drive.google.com/file/d/1R7CLzgISdpUf8OSkhkHdN-VZZ-j6ndsu/).
 
-- ❤️ Loves **Android, Open Source, Customization, Music and Coffee.**
+- ❤️ Loves **Android, Open Source, Customization, Music and Coffee**.
 
-- ⚡ Fun fact **I'm Tech Geeky, Optimistic, Karma Believer and Funny.**
+- ⚡ Fun fact **I'm Tech Geeky, Optimistic, Karma Believer and Funny**.
 
 <!-- 8. This is a Connect With Me section. -->  
 <h3 align="left">Connect With Me:</h3>
