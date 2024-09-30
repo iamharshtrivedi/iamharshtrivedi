@@ -31,7 +31,7 @@
   
 - 🔭 I’m currently working on [GenerativeAiSampleApp](https://github.com/iamharshtrivedi/GenerativeAiSampleApp), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP).
 
-- 🌱 I’m currently learning **Android-Jetpack Compose, Generative AI & Python.**
+- 🌱 I’m currently learning **Android-Jetpack Compose, Generative AI & Python**.
 
 - 👯 I’m looking to collaborate on [GenerativeAiSampleApp](https://github.com/iamharshtrivedi/GenerativeAiSampleApp), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP).
 
