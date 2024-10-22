@@ -150,9 +150,3 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamharshtrivedi&theme=oldie&no-frame=false&no-bg=true&margin-w=4" alt="iamharshtrivedi" /></a> </p>
 
 <!-- Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
