@@ -149,5 +149,10 @@
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamharshtrivedi&theme=oldie&no-frame=false&no-bg=true&margin-w=4" alt="iamharshtrivedi" /></a> </p>
 
+<!-- Snake -->
+<div align="center">
+    
+  ![snake gif](https://github.com/iamharshtrivedi/iamharshtrivedi/blob/output/github-snake-dark.svg)
+</div>
 
 
