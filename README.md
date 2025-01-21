@@ -141,7 +141,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamharshtrivedi&show_icons=true&locale=en&theme=dark&hide_border=false" alt="iamharshtrivedi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamharshtrivedi&" alt="iamharshtrivedi" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iamharshtrivedi)](https://git.io/streak-stats)
 <!-- 49. This is the Top Contributed Repo Section. -->
 <h3 align="left">🔝 Top Contributed Repo:</h3>
 <p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=iamharshtrivedi&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="iamharshtrivedi" /></p>
