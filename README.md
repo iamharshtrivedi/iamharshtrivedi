@@ -29,13 +29,13 @@
 
 - 😎 Possesses a strong growth mindset and a passion for developing impactful solutions.
   
-- 🔭 I’m currently working on [GenerativeAiSampleApp](https://github.com/iamharshtrivedi/GenerativeAiSampleApp), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP), [generative-ai-python](https://github.com/iamharshtrivedi/generative-ai-python).
+- 🔭 I’m currently working on [GenerativeAiSampleApp](https://github.com/iamharshtrivedi/GenerativeAiSampleApp), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP), [python-genai](https://github.com/iamharshtrivedi/python-genai).
 
 - 🌱 I’m currently learning **Android-Jetpack Compose, Generative AI & Python**.
 
-- 👯 I’m looking to collaborate on [GenerativeAiSampleApp](https://github.com/iamharshtrivedi/GenerativeAiSampleApp), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP), [generative-ai-python](https://github.com/iamharshtrivedi/generative-ai-python).
+- 👯 I’m looking to collaborate on [GenerativeAiSampleApp](https://github.com/iamharshtrivedi/GenerativeAiSampleApp), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP), [python-genai](https://github.com/iamharshtrivedi/python-genai).
 
-- 🤝 I’m looking for help with [GenerativeAiSampleApp](https://github.com/iamharshtrivedi/GenerativeAiSampleApp), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP), [generative-ai-python](https://github.com/iamharshtrivedi/generative-ai-python).
+- 🤝 I’m looking for help with [GenerativeAiSampleApp](https://github.com/iamharshtrivedi/GenerativeAiSampleApp), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP), [python-genai](https://github.com/iamharshtrivedi/python-genai).
 
 - 👨‍💻 All of my projects are available at [My LinkedIn Profile](https://www.linkedin.com/in/iamharshtrivedi/).
 
