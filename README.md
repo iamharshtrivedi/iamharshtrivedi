@@ -67,7 +67,7 @@
 <!-- 15. This is my StackOverFlow Profile. -->
 <a href="https://stackoverflow.com/users/6591743" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6591743" height="30" width="40" /> </a>
 <!-- 16. This is my Medium Profile. -->
-<a href="https://medium.com/@harsh.trivedi" target="blank"> <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-square-icon.png" alt="@harsh.trivedi" height="30" width="40" /> </a>
+<a href="https://medium.com/@harsh.trivedi" target="blank"> <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-logo-icon.png" alt="@harsh.trivedi" height="30" width="40" /> </a>
 <!-- 17. This is my CodePen Profile. -->
 <a href="https://codepen.io/harshtrivedi" target="blank"> <img align="center" src="https://static.cdnlogo.com/logos/c/77/codepen-icon.svg" alt="harshtrivedi" height="30" width="40" /> </a>
 <!-- 18. This is my Kaggle Profile. -->
@@ -141,7 +141,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamharshtrivedi&show_icons=true&locale=en&theme=dark&hide_border=false" alt="iamharshtrivedi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamharshtrivedi&" alt="iamharshtrivedi" /></p>
+ 
 <!-- 49. This is the Top Contributed Repo Section. -->
 <h3 align="left">🔝 Top Contributed Repo:</h3>
 <p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=iamharshtrivedi&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="iamharshtrivedi" /></p>
