@@ -95,7 +95,7 @@
 <!-- 28. This is my Postman Skill. -->
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <!-- 29. This is my AWS Skill. -->
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://zeevector.com/wp-content/uploads/Aws-Logo-PNG-White.png" alt="aws" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" alt="aws" width="40" height="40"/> </a>
 <!-- 30. This is my Google Cloud Skill. -->
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 <!-- 31. This is my CSS3 Skill. -->
