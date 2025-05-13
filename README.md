@@ -31,7 +31,7 @@
   
 - 🔭 I’m currently working on [GenerativeAiSampleApp](https://github.com/iamharshtrivedi/GenerativeAiSampleApp), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP), [python-genai](https://github.com/iamharshtrivedi/python-genai).
 
-- 🌱 I’m currently learning **Compose Multiplatform, Kotlin Multiplatform, SWiftUI, Generative AI & Python**.
+- 🌱 I’m currently learning **Compose Multiplatform, Kotlin Multiplatform, SwiftUI, Generative AI & Python**.
 
 - 👯 I’m looking to collaborate on [GenerativeAiSampleApp](https://github.com/iamharshtrivedi/GenerativeAiSampleApp), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP), [python-genai](https://github.com/iamharshtrivedi/python-genai).
 
