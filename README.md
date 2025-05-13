@@ -91,7 +91,7 @@
 <!-- 26. This is my Adobe XD Skill. -->
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303109/adobe-xd-logo.svg" alt="xd" width="40" height="40"/> </a>
 <!-- 27. This is my Firebase Skill. -->
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" alt="firebase" width="40" height="40"/> </a>
 <!-- 28. This is my Postman Skill. -->
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <!-- 29. This is my AWS Skill. -->
