@@ -39,7 +39,7 @@
 
 - 👨‍💻 All of my projects are available at [My LinkedIn Profile](https://www.linkedin.com/in/iamharshtrivedi/).
 
-- 💬 Ask me about **Android, Kotlin, Java, Python, Web Development & QA**.
+- 💬 Ask me about **Android, Kotlin, Java, SwiftUI, Python, Web Development & QA**.
 
 - 📫 How to reach me, Work E-Mail: **harshtrivediemails@gmail.com** & Personal E-Mail: **hktrivedi264@gmail.com**.
 
