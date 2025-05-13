@@ -31,7 +31,7 @@
   
 - 🔭 I’m currently working on [GenerativeAiSampleApp](https://github.com/iamharshtrivedi/GenerativeAiSampleApp), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP), [python-genai](https://github.com/iamharshtrivedi/python-genai).
 
-- 🌱 I’m currently learning **Android-Jetpack Compose, Generative AI & Python**.
+- 🌱 I’m currently learning **Compose Multiplatform, Kotlin Multiplatform, SWiftUI, Generative AI & Python**.
 
 - 👯 I’m looking to collaborate on [GenerativeAiSampleApp](https://github.com/iamharshtrivedi/GenerativeAiSampleApp), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP), [python-genai](https://github.com/iamharshtrivedi/python-genai).
 
@@ -45,7 +45,7 @@
 
 - 📄 Know my experiences, [Here is My Resume](https://drive.google.com/file/d/1Y3UzDJ-cQbU9JnpZFWUBh7vkIACR_L8J/).
 
-- ❤️ Loves **Android, Open Source, Customization, Music and Coffee**.
+- ❤️ Loves **Android, Compose Multiplatform, Kotlin Multiplatform, SwiftUI, Open Source, Customization, Music and Coffee**.
 
 - ⚡ Fun fact **I'm Tech Geeky, Optimistic, Karma Believer and Funny**.
 
