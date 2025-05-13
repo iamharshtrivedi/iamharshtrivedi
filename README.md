@@ -45,7 +45,7 @@
 
 - 📄 Know my experiences, [Here is My Resume](https://drive.google.com/file/d/1Y3UzDJ-cQbU9JnpZFWUBh7vkIACR_L8J/).
 
-- ❤️ Loves **Android, Compose Multiplatform, Kotlin Multiplatform, SwiftUI, Open Source, Customization, Music and Coffee**.
+- ❤️ Loves **Android, Compose Multiplatform, Kotlin Multiplatform, SwiftUI, Open Source, Customization, Reading Books, Music and Coffee**.
 
 - ⚡ Fun fact **I'm Tech Geeky, Optimistic, Karma Believer and Funny**.
 
