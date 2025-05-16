@@ -29,13 +29,13 @@
 
 - 😎 Possesses a strong growth mindset and a passion for developing impactful solutions.
   
-- 🔭 I’m currently working on [AIAgent](https://github.com/iamharshtrivedi/AIAgent), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP), [LittleLemonRestaurant](https://github.com/iamharshtrivedi/LittleLemonRestaurant).
+- 🔭 I’m currently working on [ai-agent-google-adk/](https://github.com/iamharshtrivedi/ai-agent-google-adk/), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP), [LittleLemonRestaurant](https://github.com/iamharshtrivedi/LittleLemonRestaurant).
 
 - 🌱 I’m currently learning **Compose Multiplatform, Kotlin Multiplatform, SwiftUI, Generative AI & Python**.
 
-- 👯 I’m looking to collaborate on [AIAgent](https://github.com/iamharshtrivedi/AIAgent), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP), [LittleLemonRestaurant](https://github.com/iamharshtrivedi/LittleLemonRestaurant).
+- 👯 I’m looking to collaborate on [ai-agent-google-adk/](https://github.com/iamharshtrivedi/ai-agent-google-adk/), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP), [LittleLemonRestaurant](https://github.com/iamharshtrivedi/LittleLemonRestaurant).
 
-- 🤝 I’m looking for help with [AIAgent](https://github.com/iamharshtrivedi/AIAgent), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP), [LittleLemonRestaurant](https://github.com/iamharshtrivedi/LittleLemonRestaurant).
+- 🤝 I’m looking for help with [ai-agent-google-adk/](https://github.com/iamharshtrivedi/ai-agent-google-adk/), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP), [LittleLemonRestaurant](https://github.com/iamharshtrivedi/LittleLemonRestaurant).
 
 - 👨‍💻 All of my projects are available at [My LinkedIn Profile](https://www.linkedin.com/in/iamharshtrivedi/).
 
