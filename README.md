@@ -57,7 +57,7 @@
 <!-- 10. This is my LinkedIn Profile. -->
 <a href="https://linkedin.com/in/iamharshtrivedi" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamharshtrivedi" height="30" width="40" /> </a>
 <!-- 11. This is my Twitter Profile. -->
-<a href="https://twitter.com/iamharshtrivedi" target="blank"> <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.svg" alt="iamharshtrivedi" height="40" width="40" /> </a>
+<a href="https://twitter.com/iamharshtrivedi" target="blank"> <img align="center" src="https://www.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_57642948.htm#fromView=keyword&page=1&position=1&uuid=69c252c4-d7a2-4658-91ed-d55f8c8b958a&query=X+Logo" alt="iamharshtrivedi" height="40" width="40" /> </a>
 <!-- 12. This is my YouTube Profile. -->
 <a href="https://www.youtube.com/c/harsh.trivedi" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="harsh.trivedi" height="30" width="40" /> </a>
 <!-- 13. This is my Instagram Profile. -->
@@ -67,7 +67,7 @@
 <!-- 15. This is my StackOverFlow Profile. -->
 <a href="https://stackoverflow.com/users/6591743" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6591743" height="30" width="40" /> </a>
 <!-- 16. This is my Medium Profile. -->
-<a href="https://medium.com/@harsh.trivedi" target="blank"> <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-logo-icon.png" alt="@harsh.trivedi" height="30" width="40" /> </a>
+<a href="https://medium.com/@harsh.trivedi" target="blank"> <img align="center" src="https://drive.google.com/file/d/1e398Rl8Sv6CC6Gu7v8WVXeue-JdWJCh_/" alt="@harsh.trivedi" height="30" width="40" /> </a>
 <!-- 17. This is my CodePen Profile. -->
 <a href="https://codepen.io/harshtrivedi" target="blank"> <img align="center" src="https://static.cdnlogo.com/logos/c/77/codepen-icon.svg" alt="harshtrivedi" height="30" width="40" /> </a>
 <!-- 18. This is my Kaggle Profile. -->
