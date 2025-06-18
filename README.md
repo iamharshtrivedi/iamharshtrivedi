@@ -52,26 +52,30 @@
 <!-- 8. This is a Connect With Me section. -->  
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-<!-- 9. This is my GitHub Profile. -->
+<!-- 10. This is my Google Scholar Profile. -->
+<a href="https://scholar.google.co.in/citations?user=BCErwqcAAAAJ&hl=en" target="blank"> <img align="center" src=".github/images/google-scholar.svg" alt="iamharshtrivedi" height="40" width="40" /> </a>
+<!-- 9. This is my Google Developer Profile. -->
+<a href="https://g.dev/iamharshtrivedi" target="blank"> <img align="center" src=".github/images/google-developers.svg" alt="iamharshtrivedi" height="40" width="40" /> </a>
+<!-- 11. This is my GitHub Profile. -->
 <a href="https://github.com/iamharshtrivedi" target="blank"> <img align="center" src=".github/images/github.png" alt="iamharshtrivedi" height="40" width="40" /> </a>
 <!-- 10. This is my LinkedIn Profile. -->
-<a href="https://linkedin.com/in/iamharshtrivedi" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamharshtrivedi" height="30" width="40" /> </a>
+<a href="https://linkedin.com/in/iamharshtrivedi" target="blank"> <img align="center" src=".github/images/linked-in-alt.svg" alt="iamharshtrivedi" height="30" width="40" /> </a>
 <!-- 11. This is my Twitter Profile. -->
 <a href="https://twitter.com/iamharshtrivedi" target="blank"> <img align="center" src=".github/images/x-icon.jpg" alt="iamharshtrivedi" height="40" width="40" /> </a>
 <!-- 12. This is my YouTube Profile. -->
-<a href="https://www.youtube.com/c/harsh.trivedi" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="harsh.trivedi" height="30" width="40" /> </a>
+<a href="https://www.youtube.com/c/harsh.trivedi" target="blank"> <img align="center" src=".github/images/youtube.svg" alt="harsh.trivedi" height="30" width="40" /> </a>
 <!-- 13. This is my Instagram Profile. -->
-<a href="https://instagram.com/im.ht" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im.ht" height="30" width="40" /></a>
+<a href="https://instagram.com/im.ht" target="blank"> <img align="center" src=".github/images/instagram.svg" alt="im.ht" height="30" width="40" /></a>
 <!-- 14. This is my Facebook Profile. -->
-<a href="https://fb.com/iamharshtrivedi264" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamharshtrivedi264" height="30" width="40" /> </a>
+<a href="https://fb.com/iamharshtrivedi264" target="blank"> <img align="center" src=".github/images/facebook.svg" alt="iamharshtrivedi264" height="30" width="40" /> </a>
 <!-- 15. This is my StackOverFlow Profile. -->
-<a href="https://stackoverflow.com/users/6591743" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6591743" height="30" width="40" /> </a>
+<a href="https://stackoverflow.com/users/6591743" target="blank"> <img align="center" src=".github/images/stack-overflow.svg" alt="6591743" height="30" width="40" /> </a>
 <!-- 16. This is my Medium Profile. -->
 <a href="https://medium.com/@harsh.trivedi" target="blank"> <img align="center" src=".github/images/medium-logo.jpg" alt="@harsh.trivedi" height="30" width="40" /> </a>
 <!-- 17. This is my CodePen Profile. -->
-<a href="https://codepen.io/harshtrivedi" target="blank"> <img align="center" src="https://static.cdnlogo.com/logos/c/77/codepen-icon.svg" alt="harshtrivedi" height="30" width="40" /> </a>
+<a href="https://codepen.io/harshtrivedi" target="blank"> <img align="center" src=".github/images/codepen-icon.svg" alt="harshtrivedi" height="30" width="40" /> </a>
 <!-- 18. This is my Kaggle Profile. -->
-<a href="https://kaggle.com/iamharshtrivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iamharshtrivedi" height="30" width="40" /></a>
+<a href="https://kaggle.com/iamharshtrivedi" target="blank"><img align="center" src=".github/images/kaggle.svg" alt="iamharshtrivedi" height="30" width="40" /></a>
 </p>
 <!-- 19. This is the Tech Stack Section. -->
 <h3 align="left">Tech Stack:</h3>
