@@ -52,14 +52,10 @@
 <!-- 8. This is a Connect With Me section. -->  
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-<!-- 10. This is my Google Scholar Profile. -->
-<a href="https://scholar.google.co.in/citations?user=BCErwqcAAAAJ&hl=en" target="blank"> <img align="center" src=".github/images/google-scholar.svg" alt="iamharshtrivedi" height="40" width="40" /> </a>
-<!-- 9. This is my Google Developer Profile. -->
-<a href="https://g.dev/iamharshtrivedi" target="blank"> <img align="center" src=".github/images/google-developers.svg" alt="iamharshtrivedi" height="40" width="40" /> </a>
-<!-- 11. This is my GitHub Profile. -->
-<a href="https://github.com/iamharshtrivedi" target="blank"> <img align="center" src=".github/images/github.png" alt="iamharshtrivedi" height="40" width="40" /> </a>
-<!-- 10. This is my LinkedIn Profile. -->
+<!-- 9. This is my LinkedIn Profile. -->
 <a href="https://linkedin.com/in/iamharshtrivedi" target="blank"> <img align="center" src=".github/images/linked-in-alt.svg" alt="iamharshtrivedi" height="30" width="40" /> </a>
+<!-- 10. This is my GitHub Profile. -->
+<a href="https://github.com/iamharshtrivedi" target="blank"> <img align="center" src=".github/images/github.png" alt="iamharshtrivedi" height="40" width="40" /> </a>
 <!-- 11. This is my Twitter Profile. -->
 <a href="https://twitter.com/iamharshtrivedi" target="blank"> <img align="center" src=".github/images/x-icon.jpg" alt="iamharshtrivedi" height="40" width="40" /> </a>
 <!-- 12. This is my YouTube Profile. -->
@@ -70,86 +66,90 @@
 <a href="https://fb.com/iamharshtrivedi264" target="blank"> <img align="center" src=".github/images/facebook.svg" alt="iamharshtrivedi264" height="30" width="40" /> </a>
 <!-- 15. This is my StackOverFlow Profile. -->
 <a href="https://stackoverflow.com/users/6591743" target="blank"> <img align="center" src=".github/images/stack-overflow.svg" alt="6591743" height="30" width="40" /> </a>
-<!-- 16. This is my Medium Profile. -->
+<!-- 16. This is my Google Scholar Profile. -->
+<a href="https://scholar.google.co.in/citations?user=BCErwqcAAAAJ&hl=en" target="blank"> <img align="center" src=".github/images/google-scholar.svg" alt="iamharshtrivedi" height="40" width="40" /> </a>
+<!-- 17. This is my Google Developer Profile. -->
+<a href="https://g.dev/iamharshtrivedi" target="blank"> <img align="center" src=".github/images/google-developers.svg" alt="iamharshtrivedi" height="40" width="40" /> </a>
+<!-- 18. This is my Medium Profile. -->
 <a href="https://medium.com/@harsh.trivedi" target="blank"> <img align="center" src=".github/images/medium-logo.jpg" alt="@harsh.trivedi" height="30" width="40" /> </a>
-<!-- 17. This is my CodePen Profile. -->
+<!-- 19. This is my CodePen Profile. -->
 <a href="https://codepen.io/harshtrivedi" target="blank"> <img align="center" src=".github/images/codepen-icon.svg" alt="harshtrivedi" height="30" width="40" /> </a>
-<!-- 18. This is my Kaggle Profile. -->
+<!-- 20. This is my Kaggle Profile. -->
 <a href="https://kaggle.com/iamharshtrivedi" target="blank"><img align="center" src=".github/images/kaggle.svg" alt="iamharshtrivedi" height="30" width="40" /></a>
 </p>
-<!-- 19. This is the Tech Stack Section. -->
+<!-- 21. This is the Tech Stack Section. -->
 <h3 align="left">Tech Stack:</h3>
 <p align="left">
-<!-- 20. This is my Android Skill. -->
+<!-- 22. This is my Android Skill. -->
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://developer.android.com/static/images/logos/android.svg" alt="android" width="40" height="40"/> </a>
-<!-- 21. This is my Kotlin Skill. -->
+<!-- 23. This is my Kotlin Skill. -->
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-<!-- 22. This is my Java Skill. -->
+<!-- 24. This is my Java Skill. -->
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<!-- 23. This is my Python Skill. -->
+<!-- 25. This is my Python Skill. -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<!-- 24. This is my Git Skill. -->
+<!-- 26. This is my Git Skill. -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<!-- 25. This is my Figma Skill. -->
+<!-- 27. This is my Figma Skill. -->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<!-- 26. This is my Adobe XD Skill. -->
+<!-- 28. This is my Adobe XD Skill. -->
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303109/adobe-xd-logo.svg" alt="xd" width="40" height="40"/> </a>
-<!-- 27. This is my Firebase Skill. -->
+<!-- 29. This is my Firebase Skill. -->
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" alt="firebase" width="40" height="40"/> </a>
-<!-- 28. This is my Postman Skill. -->
+<!-- 30. This is my Postman Skill. -->
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<!-- 29. This is my AWS Skill. -->
+<!-- 31. This is my AWS Skill. -->
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" alt="aws" width="40" height="40"/> </a>
-<!-- 30. This is my Google Cloud Skill. -->
+<!-- 32. This is my Google Cloud Skill. -->
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<!-- 31. This is my CSS3 Skill. -->
+<!-- 33. This is my CSS3 Skill. -->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<!-- 32. This is my HTML5 Skill. -->
+<!-- 34. This is my HTML5 Skill. -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<!-- 33. This is my JavaScript Skill. -->
+<!-- 35. This is my JavaScript Skill. -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<!-- 34. This is MySQL Skill. -->
+<!-- 36. This is MySQL Skill. -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/747/798/png-transparent-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-text-thumbnail.png" alt="mysql" width="40" height="40"/> </a>
-<!-- 35. This is SQLite Skill. -->
+<!-- 37. This is SQLite Skill. -->
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-<!-- 36. This is a C Language Skill. -->
+<!-- 38. This is a C Language Skill. -->
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<!-- 37. This is a C++ Language Skill. -->
+<!-- 39. This is a C++ Language Skill. -->
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<!-- 38. This is a TensorFlow Language Skill. -->
+<!-- 40. This is a TensorFlow Language Skill. -->
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<!-- 39. This is a Linux Skill. -->
+<!-- 41. This is a Linux Skill. -->
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<!-- 40. This is a MathWorks Skill. -->
+<!-- 42. This is a MathWorks Skill. -->
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-<!-- 41. This is an OpenCV Skill. -->
+<!-- 43. This is an OpenCV Skill. -->
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<!-- 42. This is a PyTourch Skill. -->
+<!-- 44. This is a PyTourch Skill. -->
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 </p>
-<!-- 43. This is the Support Section. -->
+<!-- 45. This is the Support Section. -->
 <h3 align="left">Support:</h3>
 <p>
-<!-- 44. This is the GitHub Sponsors Button. -->
+<!-- 46. This is the GitHub Sponsors Button. -->
 <a href="https://github.com/sponsors/iamharshtrivedi"> <img  src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" height="30" width="100" alt="iamharshtrivedi" /> </a>
-<!-- 45. This is the Buy Me Coffee Sponsors Button. -->
+<!-- 47. This is the Buy Me Coffee Sponsors Button. -->
 <a href="https://www.buymeacoffee.com/harsh.trivedi"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="100" alt="harsh.trivedi" /></a>
-<!-- 46. This is the Ko-Fi Sponsors Button. -->
+<!-- 48. This is the Ko-Fi Sponsors Button. -->
 <a href="https://ko-fi.com/harshtrivedi"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30" width="100" alt="harshtrivedi" /> </a>
-<!-- 47. This is the PayPal Sponsors Button. -->
+<!-- 49. This is the PayPal Sponsors Button. -->
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=25ZKHN2KL2UYN"> <img src="https://pics.paypal.com/00/s/ZDdlNDg0MDYtYTUxYS00NjcxLTgyNWUtNzgxNTQ0ODRjZGI3/file.PNG" height="40" width="110" alt="Donate with PayPal" /> </a>
 </p>
-<!-- 48. This is the GitHub Sats Section. -->
+<!-- 50. This is the GitHub Sats Section. -->
 <h3 align="left">📊 GitHub Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamharshtrivedi&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false" alt="iamharshtrivedi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamharshtrivedi&show_icons=true&locale=en&theme=dark&hide_border=false" alt="iamharshtrivedi" /></p>
 
  
-<!-- 49. This is the Top Contributed Repo Section. -->
+<!-- 51. This is the Top Contributed Repo Section. -->
 <h3 align="left">🔝 Top Contributed Repo:</h3>
 <p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=iamharshtrivedi&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="iamharshtrivedi" /></p>
-<!-- 50. This is the GitHub Trophies Section. -->
+<!-- 52. This is the GitHub Trophies Section. -->
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamharshtrivedi&theme=oldie&no-frame=false&no-bg=true&margin-w=4" alt="iamharshtrivedi" /></a> </p>
 
