@@ -99,9 +99,9 @@
 <!-- 30. This is my Postman Skill. -->
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <!-- 31. This is my AWS Skill. -->
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src=".github/images/aws.jpg" alt="aws" width="50" height="40"/> </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src=".github/images/aws.jpg" alt="aws" width="40" height="40"/> </a>
 <!-- 32. This is my Google Cloud Skill. -->
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="40"/> </a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="40"/> </a>
 <!-- 33. This is my CSS3 Skill. -->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <!-- 34. This is my HTML5 Skill. -->
