@@ -21,7 +21,7 @@
 
 - 💼 Mobile App & Python Developer. Ex - [@HyperlinkInfoSystem](https://www.hyperlinkinfosystem.com/), [@SiliconITHub](https://www.siliconithub.com/).
 
-- 💻 Software Developer with a strong coding foundation in Android, Kotlin, Java, SwiftUI, Python, Web Development and QA. </h4>
+- 💻 Software Developer with a strong coding foundation in Android, Kotlin, Java, SwiftUI, Flutter, Python, Web Development and QA. </h4>
 
 - 🥳 Passionate about AI/ML and integrating them into projects.
   
@@ -39,7 +39,7 @@
 
 - 👨‍💻 All of my projects are available at [My LinkedIn Profile](https://www.linkedin.com/in/iamharshtrivedi/).
 
-- 💬 Ask me about **Android, Kotlin, Java, SwiftUI, Python, Web Development & QA**.
+- 💬 Ask me about **Android, Kotlin, Java, SwiftUI, Flutter, Python, Web Development & QA**.
 
 - 📫 How to reach me, Work E-Mail: **harshtrivediemails@gmail.com** & Personal E-Mail: **hktrivedi264@gmail.com**.
 
