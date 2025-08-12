@@ -19,9 +19,9 @@
 
 - 👨‍💻 [@Google](https://github.com/google) Scholar - [@Android](https://github.com/android) & Tech Enthusiast with 8+ Years Of Overall Experience (5+ Years In [@Android](https://github.com/android)).
 
-- 💼 Mobile App & Python Developer. Ex - [@HyperlinkInfoSystem](https://www.hyperlinkinfosystem.com/), [@SiliconITHub](https://www.siliconithub.com/).
+- 💼 Mobile App, Python & Web Developer. Ex - [@HyperlinkInfoSystem](https://www.hyperlinkinfosystem.com/), [@SiliconITHub](https://www.siliconithub.com/).
 
-- 💻 Software Developer with a strong coding foundation in Android, Kotlin, Java, SwiftUI, Flutter, Python, Web Development and QA. </h4>
+- 💻 Software Developer with a strong coding foundation in Android, Kotlin, Java, iOS, SwiftUI, Flutter, Python, Web Development and QA. </h4>
 
 - 🥳 Passionate about AI/ML and integrating them into projects.
   
@@ -31,7 +31,7 @@
   
 - 🔭 I’m currently working on [ai-agent-google-adk](https://github.com/iamharshtrivedi/ai-agent-google-adk/), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP), [LittleLemonRestaurant](https://github.com/iamharshtrivedi/LittleLemonRestaurant).
 
-- 🌱 I’m currently learning **Compose Multiplatform, Kotlin Multiplatform, SwiftUI, AI Agent, Generative AI & Python**.
+- 🌱 I’m currently learning **Compose Multiplatform, Kotlin Multiplatform, iOS, SwiftUI, AI Agent, Generative AI, Web Development & Python**.
 
 - 👯 I’m looking to collaborate on [ai-agent-google-adk](https://github.com/iamharshtrivedi/ai-agent-google-adk/), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP), [LittleLemonRestaurant](https://github.com/iamharshtrivedi/LittleLemonRestaurant).
 
@@ -39,13 +39,13 @@
 
 - 👨‍💻 All of my projects are available at [My LinkedIn Profile](https://www.linkedin.com/in/iamharshtrivedi/).
 
-- 💬 Ask me about **Android, Kotlin, Java, SwiftUI, Flutter, Python, Web Development & QA**.
+- 💬 Ask me about **Android, Kotlin, Java, iOS, SwiftUI, Flutter, Python, Web Development & QA**.
 
 - 📫 How to reach me, Work E-Mail: **harshtrivediemails@gmail.com** & Personal E-Mail: **hktrivedi264@gmail.com**.
 
 - 📄 Know my experiences, [Here is My Resume](https://drive.google.com/file/d/1zA_JGARsaQ08I-fvpgiUBl2Hv9qgHEuc/).
 
-- ❤️ Loves **Android, Compose Multiplatform, Kotlin Multiplatform, SwiftUI, Open Source, Customization, Reading Books, Music and Coffee**.
+- ❤️ Loves **Android, Compose Multiplatform, Kotlin Multiplatform, iOS, SwiftUI, Flutter, Mobile Apps Development, Web Development, Open Source, Customization, Reading Books, Music and Coffee**.
 
 - ⚡ Fun fact **I'm Tech Geeky, Optimistic, Karma Believer and Funny**.
 
