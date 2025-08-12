@@ -86,6 +86,10 @@
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
 <!-- 24. This is my Java Skill. -->
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<!-- 25. This is my SwiftUI Skill. -->
+<a href="https://developer.apple.com/swiftui" target="_blank" rel="noreferrer"> <img src=".github/images/swiftui.png" alt="swiftui" width="40" height="40"/> </a>
+<!-- 26. This is my Flutter Skill. -->
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src=".github/images/flutter-logo.png" alt="flutter" width="40" height="40"/> </a>
 <!-- 25. This is my Python Skill. -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <!-- 26. This is my Git Skill. -->
