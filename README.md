@@ -43,9 +43,9 @@
 
 - 📫 How to reach me, Work E-Mail: **harshtrivediemails@gmail.com** & Personal E-Mail: **hktrivedi264@gmail.com**.
 
-- 📄 Know my experiences, [Here is My Resume](https://drive.google.com/file/d/1YQZiboPf00Nvj8KtXGHcqK1iqbO7kw-C/).
+- 📄 Know my experiences, [Here is My Resume](https://drive.google.com/file/d/1IpsV0h2eJN5YkhhxXMIqIx1hEtwQ2sQQ/).
 
-- ❤️ Loves **Android, Compose Multiplatform, Kotlin Multiplatform, iOS, SwiftUI, Flutter, Mobile Apps Development, Web Development, Open Source, Customization, Reading Books, Music and Coffee**.
+- ❤️ Loves **Android, Compose Multiplatform, Kotlin Multiplatform, iOS, SwiftUI, Flutter, Mobile Apps Development, Web Development, Open Source, Customisation, Reading Books, Music and Coffee**.
 
 - ⚡ Fun fact **I'm Tech Geeky, Optimistic, Karma Believer and Funny**.
 
