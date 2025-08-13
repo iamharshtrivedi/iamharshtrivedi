@@ -29,7 +29,7 @@
 
 - 😎 Possesses a strong growth mindset and a passion for developing impactful solutions.
   
-- 🔭 I’m currently working on [ai-agent-google-adk](https://github.com/iamharshtrivedi/ai-agent-google-adk/), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP), [LittleLemonRestaurant](https://github.com/iamharshtrivedi/LittleLemonRestaurant).
+- 🔭 I’m currently working on [namer_app](https://github.com/iamharshtrivedi/namer_app), [ai-agent-google-adk](https://github.com/iamharshtrivedi/ai-agent-google-adk/), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP), [LittleLemonRestaurant](https://github.com/iamharshtrivedi/LittleLemonRestaurant).
 
 - 🌱 I’m currently learning **Compose Multiplatform, Kotlin Multiplatform, iOS, SwiftUI, AI Agent, Generative AI, Web Development & Python**.
 
