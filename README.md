@@ -31,7 +31,7 @@
   
 - 🔭 I’m currently working on [namer_app](https://github.com/iamharshtrivedi/namer_app), [ai-agent-google-adk](https://github.com/iamharshtrivedi/ai-agent-google-adk/), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP), [LittleLemonRestaurant](https://github.com/iamharshtrivedi/LittleLemonRestaurant).
 
-- 🌱 I’m currently learning **Compose Multiplatform, Kotlin Multiplatform, iOS, SwiftUI, AI Agent, Generative AI, Web Development & Python**.
+- 🌱 I’m currently learning **Compose Multiplatform, Kotlin Multiplatform, iOS, SwiftUI, Flutter, Dart, AI Agent, Generative AI, Web Development & Python**.
 
 - 👯 I’m looking to collaborate on [ai-agent-google-adk](https://github.com/iamharshtrivedi/ai-agent-google-adk/), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP), [LittleLemonRestaurant](https://github.com/iamharshtrivedi/LittleLemonRestaurant).
 
@@ -39,7 +39,7 @@
 
 - 👨‍💻 All of my projects are available at [My LinkedIn Profile](https://www.linkedin.com/in/iamharshtrivedi/).
 
-- 💬 Ask me about **Android, Kotlin, Java, iOS, SwiftUI, Flutter, Python, Web Development & QA**.
+- 💬 Ask me about **Android, Kotlin, Java, iOS, SwiftUI, Flutter, Dart, Python, Web Development & QA**.
 
 - 📫 How to reach me, Work E-Mail: **harshtrivediemails@gmail.com** & Personal E-Mail: **hktrivedi264@gmail.com**.
 
