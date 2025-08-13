@@ -17,7 +17,7 @@
 <!-- 7. This is a about me section. -->
 <h3 align="left">About Me: </h3>
 
-- 👨‍💻 [@Google](https://github.com/google) Scholar - [@Android](https://github.com/android) & Tech Enthusiast with 8+ Years Of Overall Experience (5+ Years In [@Android](https://github.com/android)).
+- 👨‍💻 [@Google](https://github.com/google) Scholar - [@Android](https://github.com/android) & Tech Enthusiast with over 8 Years Of Overall Experience (3+ Years In [@Android](https://github.com/android), (5+ Years In Freelancing)).
 
 - 💼 Mobile App, Python & Web Developer. Ex - [@HyperlinkInfoSystem](https://www.hyperlinkinfosystem.com/), [@SiliconITHub](https://www.siliconithub.com/).
 
