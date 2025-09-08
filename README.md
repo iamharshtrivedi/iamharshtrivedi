@@ -146,16 +146,12 @@
 <!-- 50. This is the GitHub Sats Section. -->
 <h3 align="left">📊 GitHub Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamharshtrivedi&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false" alt="iamharshtrivedi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamharshtrivedi&show_icons=true&locale=en&theme=dark&hide_border=false" alt="iamharshtrivedi" /></p>
-
- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamharshtrivedi&theme=tokyonight" alt="Harsh's GitHub Stats" /></p>
- 
-<!-- 51. This is the Top Contributed Repo Section. -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamharshtrivedi&show_icons=true&locale=en&theme=dark&hide_border=false" alt="iamharshtrivedi" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamharshtrivedi&theme=tokyonight" alt="Harsh's GitHub Stats" /></p>
+<!-- 51.This is the Top Contributed Repo Section. -->
 <h3 align="left">🔝 Top Contributed Repo:</h3>
 <p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=iamharshtrivedi&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="iamharshtrivedi" /></p>
-
-<!-- 52. This is the GitHub Trophies Section. -->
+<!-- 52.This is the GitHub Trophies Section. -->
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=iamharshtrivedi&theme=oldie&no-frame=false&no-bg=true&margin-w=4" alt="iamharshtrivedi" /></p>
 
