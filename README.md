@@ -155,7 +155,7 @@
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=iamharshtrivedi&theme=oldie&no-frame=false&no-bg=true&margin-w=4" alt="iamharshtrivedi" /></p>
 <!-- 53.This is the LeetCode Stats Section. -->
-<h3 align="left">LeetCode: </h3>
-<p align="left"><img src="https://leetcard.jacoblin.cool/iamharshtrivedi?ext=heatmap" alt="Aayush's Leetcode Stats" /></p>
+<h3 align="left">LeetCode Stats: </h3>
+<p align="left"><img src="https://leetcard.jacoblin.cool/iamharshtrivedi?ext=heatmap" alt="Harsh's Leetcode Stats" /></p>
 
 <!-- Snake -->
