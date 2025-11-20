@@ -39,7 +39,7 @@
 
 - 💬 Ask me about **Android, Kotlin, Java, iOS, SwiftUI, Flutter, Dart, Python, Web Development & QA**.
 
-- 📫 How to reach me, Work E-Mail: **harshtrivediemails@gmail.com** & Personal E-Mail: **hktrivedi264@gmail.com**.
+- 📫 How to reach me, Work E-Mail: **harshtrivediemails@gmail.com**.
 
 - 📄 Know my experiences, [Here is My Resume](https://drive.google.com/file/d/1q7vbWzQDEnkyfhpIkXpz2YzduNX6eRm8/).
 
