@@ -37,7 +37,7 @@
 
 - 👨‍💻 All of my projects are available at [My LinkedIn Profile](https://www.linkedin.com/in/iamharshtrivedi/).
 
-- 💬 Ask me about **Android, Kotlin, Java, iOS, SwiftUI, Flutter, Dart, Python, Web Development & QA**.
+- 💬 Ask me about **Android, Kotlin, Java, iOS, SwiftUI, Flutter, Dart, Python, AI, ML, Generative AI, AI Agents, Agentic AI, Web Development & QA**.
 
 - 📫 How to reach me, Work E-Mail: **harshtrivediemails@gmail.com**.
 
