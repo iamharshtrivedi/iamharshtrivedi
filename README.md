@@ -29,11 +29,11 @@
 
 - 😎 Possesses a strong growth mindset and a passion for developing impactful solutions.
   
-- 🔭 I’m currently working on [namer_app](https://github.com/iamharshtrivedi/namer_app), [ai-agent-google-adk](https://github.com/iamharshtrivedi/ai-agent-google-adk/), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP), [LittleLemonRestaurant](https://github.com/iamharshtrivedi/LittleLemonRestaurant).
+- 🔭 I’m currently working on [codex-ai](https://github.com/iamharshtrivedi/codex-ai), [ai-agent-google-adk](https://github.com/iamharshtrivedi/ai-agent-google-adk/), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP).
 
-- 🌱 I’m currently learning **Compose Multiplatform, Kotlin Multiplatform, iOS, SwiftUI, Flutter, Dart, AI Agent, Generative AI, Web Development & Python**.
+- 🌱 I’m currently learning **Compose Multiplatform, Kotlin Multiplatform, iOS, SwiftUI, Flutter, Dart, Web Development, Python, AI, ML, AI Agent, Generative AI & Agentic AI**.
 
-- 🤝 I’m looking to collaborate on [ai-agent-google-adk](https://github.com/iamharshtrivedi/ai-agent-google-adk/), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP), [LittleLemonRestaurant](https://github.com/iamharshtrivedi/LittleLemonRestaurant).
+- 🤝 I’m looking to collaborate on [codex-ai](https://github.com/iamharshtrivedi/codex-ai), [ai-agent-google-adk](https://github.com/iamharshtrivedi/ai-agent-google-adk/), [GeminiKMP](https://github.com/iamharshtrivedi/GeminiKMP).
 
 - 👨‍💻 All of my projects are available at [My LinkedIn Profile](https://www.linkedin.com/in/iamharshtrivedi/).
 
