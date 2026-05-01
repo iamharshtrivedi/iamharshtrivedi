@@ -43,7 +43,7 @@
 
 - 📄 Know my experiences, [Here is My Resume](https://drive.google.com/file/d/1q7vbWzQDEnkyfhpIkXpz2YzduNX6eRm8/).
 
-- ❤️ Loves **Android, Compose Multiplatform, Kotlin Multiplatform, iOS, SwiftUI, Flutter, Mobile Apps Development, Web Development, Open Source, Customisation, Reading Books, Music and Coffee**.
+- ❤️ Loves **Android, Jetpack Compose, Compose Multiplatform, Kotlin Multiplatform, iOS, SwiftUI, Flutter, Mobile Apps Development, Web Development, AI, ML, Gen AI, AI Agents, Agentic AI, Open Source, Customisation, Reading Books, Music and Coffee**.
 
 - ⚡ Fun fact **I'm Tech Geeky, Optimistic, Karma Believer and Funny**.
 
