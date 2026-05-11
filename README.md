@@ -17,9 +17,9 @@
 <!-- 7. This is a about me section. -->
 <h3 align="left">About Me: </h3>
 
-- 👨‍💻 [@Google](https://github.com/google) Scholar - [@Android](https://github.com/android) & Tech Enthusiast with over 8 Years Of Overall Experience (6+ Years In [@Android](https://github.com/android), 3+ Years In AI/ML/GenAI).
+- 💼 Founder, CEO & CTO [@Vision Leap AI](https://github.com/vision-leap-ai), Senior Mobile App Developer, & AI/ML/GenAI Engineer. Ex - [@HyperlinkInfoSystem](https://www.hyperlinkinfosystem.com/), [@SiliconITHub](https://www.siliconithub.com/).
 
-- 💼 Senior Mobile App Developer, & AI/ML/GenAI Engineer. Ex - [@HyperlinkInfoSystem](https://www.hyperlinkinfosystem.com/), [@SiliconITHub](https://www.siliconithub.com/).
+- 👨‍💻 [@Google](https://github.com/google) Scholar - [@Android](https://github.com/android) & Tech Enthusiast with over 8 Years Of Overall Experience (6+ Years In [@Android](https://github.com/android), 3+ Years In AI/ML/GenAI).
 
 - 💻 Software Developer with a strong coding foundation in Android, Kotlin, Java, iOS, SwiftUI, Flutter, Python, Web Development and QA. </h4>
 
