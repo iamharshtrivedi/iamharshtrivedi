@@ -46,63 +46,65 @@
 <h3 align="left">Connect With Me:</h3>
 <table>
   <tr>
-    <td><a href="https://linkedin.com/in/iamharshtrivedi" target="blank"><img src=".github/images/linked-in-alt.svg" alt="iamharshtrivedi" height="30" width="40" /></a></td>
-    <td><a href="https://github.com/iamharshtrivedi" target="blank"><img src=".github/images/github.png" alt="iamharshtrivedi" height="40" width="40" /></a></td>
-    <td><a href="https://twitter.com/iamharshtrivedi" target="blank"><img src=".github/images/x-icon.jpg" alt="iamharshtrivedi" height="40" width="40" /></a></td>
-    <td><a href="https://www.youtube.com/c/harsh.trivedi" target="blank"><img src=".github/images/youtube.svg" alt="harsh.trivedi" height="30" width="40" /></a></td>
-    <td><a href="https://instagram.com/im.ht" target="blank"><img src=".github/images/instagram.svg" alt="im.ht" height="30" width="40" /></a></td>
-    <td><a href="https://fb.com/iamharshtrivedi264" target="blank"><img src=".github/images/facebook.svg" alt="iamharshtrivedi264" height="30" width="40" /></a></td>
-    <td><a href="https://stackoverflow.com/users/6591743" target="blank"><img src=".github/images/stack-overflow.svg" alt="6591743" height="30" width="40" /></a></td>
-    <td><a href="https://scholar.google.co.in/citations?user=BCErwqcAAAAJ&hl=en" target="blank"><img src=".github/images/google-scholar.svg" alt="iamharshtrivedi" height="40" width="40" /></a></td>
-    <td><a href="https://g.dev/iamharshtrivedi" target="blank"><img src=".github/images/google-developers.svg" alt="iamharshtrivedi" height="40" width="40" /></a></td>
-    <td><a href="https://medium.com/@harsh.trivedi" target="blank"><img src=".github/images/medium-logo.jpg" alt="@harsh.trivedi" height="30" width="40" /></a></td>
-    <td><a href="https://codepen.io/harshtrivedi" target="blank"><img src=".github/images/codepen-icon.svg" alt="harshtrivedi" height="30" width="40" /></a></td>
-    <td><a href="https://kaggle.com/iamharshtrivedi" target="blank"><img src=".github/images/kaggle.svg" alt="iamharshtrivedi" height="30" width="40" /></a></td>
+    <td align="center"><a href="https://linkedin.com/in/iamharshtrivedi" target="blank"><img src=".github/images/linked-in-alt.svg" alt="LinkedIn" height="60" width="60" /></a></td>
+    <td align="center"><a href="https://github.com/iamharshtrivedi" target="blank"><img src=".github/images/github.png" alt="GitHub" height="60" width="60" /></a></td>
+    <td align="center"><a href="https://twitter.com/iamharshtrivedi" target="blank"><img src=".github/images/x-icon.jpg" alt="Twitter/X" height="60" width="60" /></a></td>
+    <td align="center"><a href="https://www.youtube.com/c/harsh.trivedi" target="blank"><img src=".github/images/youtube.svg" alt="YouTube" height="60" width="60" /></a></td>
+    <td align="center"><a href="https://instagram.com/im.ht" target="blank"><img src=".github/images/instagram.svg" alt="Instagram" height="60" width="60" /></a></td>
+    <td align="center"><a href="https://fb.com/iamharshtrivedi264" target="blank"><img src=".github/images/facebook.svg" alt="Facebook" height="60" width="60" /></a></td>
+    <td align="center"><a href="https://stackoverflow.com/users/6591743" target="blank"><img src=".github/images/stack-overflow.svg" alt="StackOverflow" height="60" width="60" /></a></td>
+    <td align="center"><a href="https://scholar.google.co.in/citations?user=BCErwqcAAAAJ&hl=en" target="blank"><img src=".github/images/google-scholar.svg" alt="Google Scholar" height="60" width="60" /></a></td>
+    <td align="center"><a href="https://g.dev/iamharshtrivedi" target="blank"><img src=".github/images/google-developers.svg" alt="Google Developer" height="60" width="60" /></a></td>
+    <td align="center"><a href="https://medium.com/@harsh.trivedi" target="blank"><img src=".github/images/medium-logo.jpg" alt="Medium" height="60" width="60" /></a></td>
+    <td align="center"><a href="https://codepen.io/harshtrivedi" target="blank"><img src=".github/images/codepen-icon.svg" alt="CodePen" height="60" width="60" /></a></td>
+    <td align="center"><a href="https://kaggle.com/iamharshtrivedi" target="blank"><img src=".github/images/kaggle.svg" alt="Kaggle" height="60" width="60" /></a></td>
   </tr>
 </table>
 
 <h3 align="left">Tech Stack:</h3>
 <table>
   <tr>
-    <td align="center"><a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://developer.android.com/static/images/logos/android.svg" alt="android" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://developer.apple.com/swiftui" target="_blank" rel="noreferrer"><img src=".github/images/swiftui.png" alt="swiftui" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src=".github/images/flutter-logo.png" alt="flutter" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303109/adobe-xd-logo.svg" alt="xd" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" alt="firebase" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src=".github/images/aws.jpg" alt="aws" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://developer.android.com/static/images/logos/android.svg" alt="android" width="60" height="60"/><br/><sub><b>Android</b></sub></a></td>
+    <td align="center"><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="60" height="60"/><br/><sub><b>Kotlin</b></sub></a></td>
+    <td align="center"><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/><br/><sub><b>Java</b></sub></a></td>
+    <td align="center"><a href="https://developer.apple.com/swiftui" target="_blank" rel="noreferrer"><img src=".github/images/swiftui.png" alt="swiftui" width="60" height="60"/><br/><sub><b>SwiftUI</b></sub></a></td>
+    <td align="center"><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src=".github/images/flutter-logo.png" alt="flutter" width="60" height="60"/><br/><sub><b>Flutter</b></sub></a></td>
+    <td align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/><br/><sub><b>Python</b></sub></a></td>
+    <td align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/><br/><sub><b>Git</b></sub></a></td>
+    <td align="center"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/><br/><sub><b>Figma</b></sub></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/747/798/png-transparent-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-text-thumbnail.png" alt="mysql" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303109/adobe-xd-logo.svg" alt="xd" width="60" height="60"/><br/><sub><b>Adobe XD</b></sub></a></td>
+    <td align="center"><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" alt="firebase" width="60" height="60"/><br/><sub><b>Firebase</b></sub></a></td>
+    <td align="center"><a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/><br/><sub><b>Postman</b></sub></a></td>
+    <td align="center"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src=".github/images/aws.jpg" alt="aws" width="60" height="60"/><br/><sub><b>AWS</b></sub></a></td>
+    <td align="center"><a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="60" height="60"/><br/><sub><b>GCP</b></sub></a></td>
+    <td align="center"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/><br/><sub><b>CSS3</b></sub></a></td>
+    <td align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/><br/><sub><b>HTML5</b></sub></a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/><br/><sub><b>JavaScript</b></sub></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/747/798/png-transparent-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-text-thumbnail.png" alt="mysql" width="60" height="60"/><br/><sub><b>MySQL</b></sub></a></td>
+    <td align="center"><a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/><br/><sub><b>SQLite</b></sub></a></td>
+    <td align="center"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/><br/><sub><b>C</b></sub></a></td>
+    <td align="center"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/><br/><sub><b>C++</b></sub></a></td>
+    <td align="center"><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/><br/><sub><b>TensorFlow</b></sub></a></td>
+    <td align="center"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/><br/><sub><b>Linux</b></sub></a></td>
+    <td align="center"><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="60"/><br/><sub><b>MATLAB</b></sub></a></td>
+    <td align="center"><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60"/><br/><sub><b>OpenCV</b></sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60"/><br/><sub><b>PyTorch</b></sub></a></td>
   </tr>
 </table>
 
 <h3 align="left">Support:</h3>
 <table>
   <tr>
-    <td><a href="https://github.com/sponsors/iamharshtrivedi"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" height="30" width="100" alt="iamharshtrivedi" /></a></td>
-    <td><a href="https://www.buymeacoffee.com/harsh.trivedi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="100" alt="harsh.trivedi" /></a></td>
-    <td><a href="https://ko-fi.com/harshtrivedi"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30" width="100" alt="harshtrivedi" /></a></td>
-    <td><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=25ZKHN2KL2UYN"><img src="https://pics.paypal.com/00/s/ZDdlNDg0MDYtYTUxYS00NjcxLTgyNWUtNzgxNTQ0ODRjZGI3/file.PNG" height="40" width="110" alt="Donate with PayPal" /></a></td>
+    <td align="center"><a href="https://github.com/sponsors/iamharshtrivedi"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" height="40" width="130" alt="GitHub Sponsor" /></a></td>
+    <td align="center"><a href="https://www.buymeacoffee.com/harsh.trivedi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="180" alt="Buy Me a Coffee" /></a></td>
+    <td align="center"><a href="https://ko-fi.com/harshtrivedi"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="180" alt="Ko-Fi" /></a></td>
+    <td align="center"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=25ZKHN2KL2UYN"><img src="https://pics.paypal.com/00/s/ZDdlNDg0MDYtYTUxYS00NjcxLTgyNWUtNzgxNTQ0ODRjZGI3/file.PNG" height="50" width="160" alt="Donate with PayPal" /></a></td>
   </tr>
 </table>
 
