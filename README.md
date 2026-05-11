@@ -46,18 +46,20 @@
 <h3 align="left">Connect With Me:</h3>
 <table>
   <tr>
-    <td align="center"><a href="https://linkedin.com/in/iamharshtrivedi" target="blank"><img src=".github/images/linked-in-alt.svg" alt="LinkedIn" height="60" width="60" /></a></td>
-    <td align="center"><a href="https://github.com/iamharshtrivedi" target="blank"><img src=".github/images/github.png" alt="GitHub" height="60" width="60" /></a></td>
-    <td align="center"><a href="https://twitter.com/iamharshtrivedi" target="blank"><img src=".github/images/x-icon.jpg" alt="Twitter/X" height="60" width="60" /></a></td>
-    <td align="center"><a href="https://www.youtube.com/c/harsh.trivedi" target="blank"><img src=".github/images/youtube.svg" alt="YouTube" height="60" width="60" /></a></td>
-    <td align="center"><a href="https://instagram.com/im.ht" target="blank"><img src=".github/images/instagram.svg" alt="Instagram" height="60" width="60" /></a></td>
-    <td align="center"><a href="https://fb.com/iamharshtrivedi264" target="blank"><img src=".github/images/facebook.svg" alt="Facebook" height="60" width="60" /></a></td>
-    <td align="center"><a href="https://stackoverflow.com/users/6591743" target="blank"><img src=".github/images/stack-overflow.svg" alt="StackOverflow" height="60" width="60" /></a></td>
-    <td align="center"><a href="https://scholar.google.co.in/citations?user=BCErwqcAAAAJ&hl=en" target="blank"><img src=".github/images/google-scholar.svg" alt="Google Scholar" height="60" width="60" /></a></td>
-    <td align="center"><a href="https://g.dev/iamharshtrivedi" target="blank"><img src=".github/images/google-developers.svg" alt="Google Developer" height="60" width="60" /></a></td>
-    <td align="center"><a href="https://medium.com/@harsh.trivedi" target="blank"><img src=".github/images/medium-logo.jpg" alt="Medium" height="60" width="60" /></a></td>
-    <td align="center"><a href="https://codepen.io/harshtrivedi" target="blank"><img src=".github/images/codepen-icon.svg" alt="CodePen" height="60" width="60" /></a></td>
-    <td align="center"><a href="https://kaggle.com/iamharshtrivedi" target="blank"><img src=".github/images/kaggle.svg" alt="Kaggle" height="60" width="60" /></a></td>
+    <td align="center" width="100"><a href="https://linkedin.com/in/iamharshtrivedi" target="blank"><img src=".github/images/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a><br/><sub><b>LinkedIn</b></sub></td>
+    <td align="center" width="100"><a href="https://github.com/iamharshtrivedi" target="blank"><img src=".github/images/github.png" alt="GitHub" height="40" width="40" /></a><br/><sub><b>GitHub</b></sub></td>
+    <td align="center" width="100"><a href="https://x.com/iamharshtrivedi" target="blank"><img src=".github/images/x-icon.jpg" alt="X" height="40" width="40" /></a><br/><sub><b>X</b></sub></td>
+    <td align="center" width="100"><a href="https://www.youtube.com/c/harsh.trivedi" target="blank"><img src=".github/images/youtube.svg" alt="YouTube" height="40" width="40" /></a><br/><sub><b>YouTube</b></sub></td>
+    <td align="center" width="100"><a href="https://instagram.com/im.ht" target="blank"><img src=".github/images/instagram.svg" alt="Instagram" height="40" width="40" /></a><br/><sub><b>Instagram</b></sub></td>
+    <td align="center" width="100"><a href="https://fb.com/iamharshtrivedi264" target="blank"><img src=".github/images/facebook.svg" alt="Facebook" height="40" width="40" /></a><br/><sub><b>Facebook</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><a href="https://stackoverflow.com/users/6591743" target="blank"><img src=".github/images/stack-overflow.svg" alt="StackOverflow" height="40" width="40" /></a><br/><sub><b>Stack Overflow</b></sub></td>
+    <td align="center" width="100"><a href="https://scholar.google.co.in/citations?user=BCErwqcAAAAJ&hl=en" target="blank"><img src=".github/images/google-scholar.svg" alt="Google Scholar" height="40" width="40" /></a><br/><sub><b>Google Scholar</b></sub></td>
+    <td align="center" width="100"><a href="https://g.dev/iamharshtrivedi" target="blank"><img src=".github/images/google-developers.svg" alt="Google Developer" height="40" width="40" /></a><br/><sub><b>Google Dev</b></sub></td>
+    <td align="center" width="100"><a href="https://medium.com/@harsh.trivedi" target="blank"><img src=".github/images/medium-logo.jpg" alt="Medium" height="40" width="40" /></a><br/><sub><b>Medium</b></sub></td>
+    <td align="center" width="100"><a href="https://codepen.io/harshtrivedi" target="blank"><img src=".github/images/codepen-icon.svg" alt="CodePen" height="40" width="40" /></a><br/><sub><b>CodePen</b></sub></td>
+    <td align="center" width="100"><a href="https://kaggle.com/iamharshtrivedi" target="blank"><img src=".github/images/kaggle.svg" alt="Kaggle" height="40" width="40" /></a><br/><sub><b>Kaggle</b></sub></td>
   </tr>
 </table>
 
