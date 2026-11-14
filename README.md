@@ -13,7 +13,7 @@
 
 <h3 align="left">About Me:</h3>
 
-- 💼 Founder, CEO & CTO [@Vision Leap AI](https://github.com/vision-leap-ai), Senior Mobile App Developer, & AI/ML/Gen AI/Agentic AI Engineer. Ex - [@HyperlinkInfoSystem](https://www.hyperlinkinfosystem.com/), [@SiliconITHub](https://www.siliconithub.com/).
+- 💼 Founder, CEO & CTO [@Vision Leap AI](https://github.com/vision-leap-ai), Senior Mobile App Developer, & AI/ML/Gen AI/Agentic AI Engineer. Ex - [@HyperlinkInfoSystem](https://www.hyperlinkinfosystem.com/), [@SiliconITHub](https://www.siliconithub.com/), [@Banzai Health Pvt. Ltd.](https://topdoc.ai/).
 
 - 👨‍💻 [@Google](https://github.com/google) Scholar - [@Android](https://github.com/android) & Tech Enthusiast with over 8 Years Of Overall Experience (6+ Years In [@Android](https://github.com/android), 4+ Years In AI/ML/GenAI).
 
