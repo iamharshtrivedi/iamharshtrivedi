@@ -113,8 +113,8 @@
 </table>
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamharshtrivedi&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false" alt="iamharshtrivedi" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamharshtrivedi&show_icons=true&locale=en&theme=dark&hide_border=false" alt="iamharshtrivedi" /></p>
+<p><img align="center" src="https://github-stats-extended.vercel.app/api?username=iamharshtrivedi&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github" alt="iamharshtrivedi" /></p>
+<p><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=iamharshtrivedi&langs_count=5&theme=dark_github" alt="iamharshtrivedi" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamharshtrivedi&theme=tokyonight" alt="Harsh's GitHub Stats" /></p>
 
 <h3 align="left">🔝 Top Contributed Repo:</h3>
